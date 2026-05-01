@@ -48,6 +48,7 @@ npm run dev
 
 ## Project Structure
 
+```
 AI-Cover-Letter-Generator/
 │── public/
 │── src/
@@ -62,7 +63,7 @@ AI-Cover-Letter-Generator/
 │── .gitignore
 │── package.json
 │── vite.config.js
-
+```
 ## Learning Outcomes
 
 This project demonstrates:
